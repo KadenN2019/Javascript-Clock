@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+#clock{
+    padding: 50px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 150px;
+
+}
